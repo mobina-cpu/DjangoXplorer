@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c33ffed6-1435-4262-984e-0b039a1a2b62" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lHV4dd7IITrZPxwR2b13TmlIco" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.pytest for test_collections.TestCreateCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_collections.TestCreateCollection.test_if_data_is_invalid_returns_400.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_collections.TestCreateCollection.test_if_data_is_valid_returns_201.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_collections.TestCreateCollection.test_if_user_is_anonymous_returns_401.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_collections.TestCreateCollection.test_if_user_is_not_admin_returns_403.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_collections.TestRetrieveCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_collections.TestRetrieveCollection.test_if_collection_exists_returns_200.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_collections.test_if_user_is_not_admin_returns_403.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_products.TestCreateProduct.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_invalid_data_returns_400.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_valid_data_returns_201.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_products.TestCreateProduct.test_if_user_is_not_admin_returns_403.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mobina/Documents/storefront3/core/static&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core/static" />
+      <recent name="$PROJECT_DIR$/playground/static/images" />
+      <recent name="$PROJECT_DIR$/media" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/storefront/settings" />
+      <recent name="$PROJECT_DIR$/core/static/core" />
+      <recent name="$PROJECT_DIR$/core/static" />
+      <recent name="$PROJECT_DIR$/core/templates/core" />
+      <recent name="$PROJECT_DIR$/core/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_valid_data_returns_201">
+    <configuration name="storefront3" type="Python.DjangoServer" factoryName="Django server">
+      <module name="storefront3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_collections.TestRetrieveCollection.test_if_collection_exists_returns_200" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="storefront3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/store/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_collections.TestRetrieveCollection.test_if_collection_exists_returns_200&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_products.TestCreateProduct" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="storefront3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/store/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_products.TestCreateProduct&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_products.TestCreateProduct.test_if_data_is_invalid_data_returns_400" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="storefront3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/store/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_products.TestCreateProduct.test_if_data_is_invalid_data_returns_400&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_products.TestCreateProduct.test_if_data_is_valid_data_returns_201" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="storefront3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/store/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_products.TestCreateProduct.test_if_data_is_valid_data_returns_201&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_products.TestCreateProduct.test_if_user_is_not_admin_returns_403" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="storefront3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/store/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_products.TestCreateProduct.test_if_user_is_not_admin_returns_403&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_valid_data_returns_201" />
+        <item itemvalue="Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_invalid_data_returns_400" />
+        <item itemvalue="Python tests.pytest for test_products.TestCreateProduct.test_if_user_is_not_admin_returns_403" />
+        <item itemvalue="Python tests.pytest for test_products.TestCreateProduct" />
+        <item itemvalue="Python tests.pytest for test_collections.TestRetrieveCollection.test_if_collection_exists_returns_200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c33ffed6-1435-4262-984e-0b039a1a2b62" name="Changes" comment="" />
+      <created>1724836798865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724836798865</updated>
+      <workItem from="1724836801540" duration="2486000" />
+      <workItem from="1724946903166" duration="20000" />
+      <workItem from="1725358141905" duration="2196000" />
+      <workItem from="1725360376836" duration="1319000" />
+      <workItem from="1725440907861" duration="5108000" />
+      <workItem from="1725461071945" duration="532000" />
+      <workItem from="1725461614218" duration="341000" />
+      <workItem from="1725461978029" duration="144000" />
+      <workItem from="1725465271876" duration="49000" />
+      <workItem from="1725466004527" duration="714000" />
+      <workItem from="1725473211857" duration="789000" />
+      <workItem from="1725528049068" duration="621000" />
+      <workItem from="1725533965550" duration="308000" />
+      <workItem from="1725534543627" duration="4264000" />
+      <workItem from="1725699242902" duration="3909000" />
+      <workItem from="1725706223684" duration="4374000" />
+      <workItem from="1725711033401" duration="4886000" />
+      <workItem from="1725717768932" duration="2928000" />
+      <workItem from="1725726096984" duration="1928000" />
+      <workItem from="1725740317991" duration="2194000" />
+      <workItem from="1725786158625" duration="4651000" />
+      <workItem from="1725792376236" duration="4554000" />
+      <workItem from="1725798755051" duration="5536000" />
+      <workItem from="1725869007049" duration="4913000" />
+      <workItem from="1725874224095" duration="292000" />
+      <workItem from="1726497142036" duration="8294000" />
+      <workItem from="1726507870074" duration="3792000" />
+      <workItem from="1726561956551" duration="4287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_products_TestCreateProduct.coverage" NAME="pytest for test_products.TestCreateProduct Coverage Results" MODIFIED="1725870949437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_collections_TestCreateCollection_test_if_user_is_anonymous_returns_401.coverage" NAME="pytest for test_collections.TestCreateCollection.test_if_user_is_anonymous_returns_401 Coverage Results" MODIFIED="1725810512479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_products_TestCreateProduct_test_if_user_is_not_admin_returns_403.coverage" NAME="pytest for test_products.TestCreateProduct.test_if_user_is_not_admin_returns_403 Coverage Results" MODIFIED="1725871098908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_products_TestCreateProduct_test_if_data_is_valid_data_returns_201.coverage" NAME="pytest for test_products.TestCreateProduct.test_if_data_is_valid_data_returns_201 Coverage Results" MODIFIED="1725873544855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_collections_TestCreateCollection_test_if_data_is_valid_returns_201.coverage" NAME="pytest for test_collections.TestCreateCollection.test_if_data_is_valid_returns_201 Coverage Results" MODIFIED="1725808920953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_collections_TestRetrieveCollection_test_if_collection_exists_returns_200.coverage" NAME="pytest for test_collections.TestRetrieveCollection.test_if_collection_exists_returns_200 Coverage Results" MODIFIED="1725869991871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_collections_TestRetrieveCollection.coverage" NAME="pytest for test_collections.TestRetrieveCollection Coverage Results" MODIFIED="1725869925581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_collections_TestCreateCollection.coverage" NAME="pytest for test_collections.TestCreateCollection Coverage Results" MODIFIED="1725869023386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_collections_TestCreateCollection_test_if_user_is_not_admin_returns_403.coverage" NAME="pytest for test_collections.TestCreateCollection.test_if_user_is_not_admin_returns_403 Coverage Results" MODIFIED="1725810540006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_collections_TestCreateCollection_test_if_data_is_invalid_returns_400.coverage" NAME="pytest for test_collections.TestCreateCollection.test_if_data_is_invalid_returns_400 Coverage Results" MODIFIED="1725869398543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_collections_test_if_user_is_not_admin_returns_403.coverage" NAME="pytest for test_collections.test_if_user_is_not_admin_returns_403 Coverage Results" MODIFIED="1725807420148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+    <SUITE FILE_PATH="coverage/storefront3$pytest_for_test_products_TestCreateProduct_test_if_data_is_invalid_data_returns_400.coverage" NAME="pytest for test_products.TestCreateProduct.test_if_data_is_invalid_data_returns_400 Coverage Results" MODIFIED="1725873022670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/store/tests" />
+  </component>
+</project>
