@@ -7,7 +7,8 @@ logger = logging.getLogger(__name__)
 
 
 class HelloView(APIView):
-    def get(self, request):
+    @staticmethod
+    def get(request):
         try:
             logger.info('Calling httpbin')
             response = requests.get('https://httpbin.org/delay/2')

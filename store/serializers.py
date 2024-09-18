@@ -69,7 +69,8 @@ class ProductSerializer(serializers.ModelSerializer):
         method_name='calculate_tax'
     )
 
-    def calculate_tax(self, product: Product):
+    @staticmethod
+    def calculate_tax(product: Product):
         return product.unit_price * Decimal(1.1)
 
 
@@ -104,7 +105,8 @@ class CartItemSerializer(serializers.ModelSerializer):
     product = SimpleProductSerializer()
     total_price = serializers.SerializerMethodField()
 
-    def get_total_price(self, cart_item: CartItem):
+    @staticmethod
+    def get_total_price(cart_item: CartItem):
         return cart_item.quantity * cart_item.product.unit_price
 
     class Meta:
@@ -128,7 +130,8 @@ class CartSerializer(serializers.ModelSerializer):
 
     )
 
-    def get_total_price(self, cart):
+    @staticmethod
+    def get_total_price(cart):
         return sum([item.quantity * item.product.unit_price for item in cart.items.all()])
 
     class Meta:
@@ -145,7 +148,8 @@ class AddCartItemSerializer(serializers.ModelSerializer):
 
     )
 
-    def validate_product_id(self, value):
+    @staticmethod
+    def validate_product_id(value):
         if not Product.objects.filter(pk=value).exists():
             raise serializers.ValidationError(
                 'No product with the given ID was found.'
@@ -247,7 +251,8 @@ class UpdateOrderSerializer(serializers.ModelSerializer):
 class CreateOrderSerializer(serializers.Serializer):
     cart_id = serializers.UUIDField()
 
-    def validate_cart_id(self, cart_id):
+    @staticmethod
+    def validate_cart_id(cart_id):
         if not Cart.objects.filter(pk=cart_id).exists():
             raise serializers.ValidationError(
                 'No cart with the given ID was found.'
@@ -284,5 +289,3 @@ class CreateOrderSerializer(serializers.Serializer):
             order_created.send_robust(self.__class__, order=order)
 
             return order
-
-
