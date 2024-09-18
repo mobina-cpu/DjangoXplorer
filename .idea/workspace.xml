@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c33ffed6-1435-4262-984e-0b039a1a2b62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storefront/settings/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storefront/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings/dev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storefront/settings/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings/prod.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,41 +34,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.pytest for test_collections.TestCreateCollection.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_collections.TestCreateCollection.test_if_data_is_invalid_returns_400.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_collections.TestCreateCollection.test_if_data_is_valid_returns_201.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_collections.TestCreateCollection.test_if_user_is_anonymous_returns_401.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_collections.TestCreateCollection.test_if_user_is_not_admin_returns_403.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_collections.TestRetrieveCollection.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_collections.TestRetrieveCollection.test_if_collection_exists_returns_200.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_collections.test_if_user_is_not_admin_returns_403.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_products.TestCreateProduct.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_invalid_data_returns_400.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_valid_data_returns_201.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for test_products.TestCreateProduct.test_if_user_is_not_admin_returns_403.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/mobina/Documents/storefront3/core/static&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.pytest for test_collections.TestCreateCollection.executor": "Run",
+    "Python tests.pytest for test_collections.TestCreateCollection.test_if_data_is_invalid_returns_400.executor": "Run",
+    "Python tests.pytest for test_collections.TestCreateCollection.test_if_data_is_valid_returns_201.executor": "Run",
+    "Python tests.pytest for test_collections.TestCreateCollection.test_if_user_is_anonymous_returns_401.executor": "Run",
+    "Python tests.pytest for test_collections.TestCreateCollection.test_if_user_is_not_admin_returns_403.executor": "Run",
+    "Python tests.pytest for test_collections.TestRetrieveCollection.executor": "Run",
+    "Python tests.pytest for test_collections.TestRetrieveCollection.test_if_collection_exists_returns_200.executor": "Run",
+    "Python tests.pytest for test_collections.test_if_user_is_not_admin_returns_403.executor": "Run",
+    "Python tests.pytest for test_products.TestCreateProduct.executor": "Run",
+    "Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_invalid_data_returns_400.executor": "Run",
+    "Python tests.pytest for test_products.TestCreateProduct.test_if_data_is_valid_data_returns_201.executor": "Run",
+    "Python tests.pytest for test_products.TestCreateProduct.test_if_user_is_not_admin_returns_403.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/mobina/Documents/storefront3/core/static",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mariadb&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/core/static" />
@@ -257,7 +253,7 @@
       <workItem from="1726507870074" duration="3792000" />
       <workItem from="1726561956551" duration="4287000" />
       <workItem from="1726580864386" duration="5167000" />
-      <workItem from="1726646846830" duration="787000" />
+      <workItem from="1726646846830" duration="3510000" />
     </task>
     <servers />
   </component>
