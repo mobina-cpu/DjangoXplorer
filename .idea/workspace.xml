@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c33ffed6-1435-4262-984e-0b039a1a2b62" name="Changes" comment="" />
+    <list default="true" id="c33ffed6-1435-4262-984e-0b039a1a2b62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storefront/settings/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storefront/settings/dev.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings/dev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storefront/settings/prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings/prod.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +26,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -47,6 +57,7 @@
     &quot;RunOnceActivity.pycharm.django.structure.promotion.once.per.project&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/mobina/Documents/storefront3/core/static&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -245,6 +256,8 @@
       <workItem from="1726497142036" duration="8294000" />
       <workItem from="1726507870074" duration="3792000" />
       <workItem from="1726561956551" duration="4287000" />
+      <workItem from="1726580864386" duration="5167000" />
+      <workItem from="1726646846830" duration="787000" />
     </task>
     <servers />
   </component>
